@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "admin_url": "https://t.me/Study_group_App",
+    "info_url": "https://youtube.com/shorts/pUzO0qK8Pf8?feature=share",
+    "info_msg": "How to Get Key?",
+    "key_validity": "48h"
+  },
+  "shortener": {
+    "base_url": "https://arolinks.com/api",
+    "api_token": "0aa19e644db340e405f3b7654cdc70f70d705966",
+    "json_key": "shortenedUrl",
+    "destination_trick": "https://madxrohitbihar.42web.io/key.php?device="
+  },
+  "ui_text": {
+    "dialog_title": "Madxrohitbihar",
+    "dialog_subtitle": "Device Verification Required",
+    "btn_get_key": "Get Key",
+    "btn_login": "Login / Verify",
+    "btn_admin": "Admin",
+    "btn_update": "Update Now",
+    "input_hint": "Paste Key Here"
+  },
+  "theme": {
+    "accent_color": "#FF6200EE",
+    "text_color": "#FFFFFFFF",
+    "btn_stroke_color": "#FF9D46FF"
+  },
+  "time_settings": {
+    "api_url": "http://worldtimeapi.org/api/timezone/",
+    "timezone": "Asia/Kolkata"
+  },
+  "update_system": {
+    "force_update_date": "01/01/2027",
+    "update_url": "https://t.me/Study_group_App",
+    "update_title": "Update Required",
+    "update_msg": "A new version is available. Please update."
+  }
+}
