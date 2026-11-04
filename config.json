@@ -9,7 +9,7 @@
     "base_url": "https://arolinks.com/api",
     "api_token": "0aa19e644db340e405f3b7654cdc70f70d705966",
     "json_key": "shortenedUrl",
-    "destination_trick": "https://madxrohitbihar.42web.io/key.php?device="
+    "destination_trick": "https://madxrohitbihar-app.github.io/APP-JOSN-KEY-/?device="
   },
   "ui_text": {
     "dialog_title": "Madxrohitbihar",
@@ -21,9 +21,9 @@
     "input_hint": "Paste Key Here"
   },
   "theme": {
-    "accent_color": "#FF6200EE",
+    "accent_color": "#FF00D2FF",
     "text_color": "#FFFFFFFF",
-    "btn_stroke_color": "#FF9D46FF"
+    "btn_stroke_color": "#FF00F2FE"
   },
   "time_settings": {
     "api_url": "http://worldtimeapi.org/api/timezone/",
